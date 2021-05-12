@@ -1,5 +1,9 @@
 # mobile-vant-template
 
+##Describe
+
+该项目集成移动端rem适配，代码美化，初始css，axios封装，初始化路由，文件结构初始化，各类配置初始化，该项目将会持续更新。。。
+
 ## Ecosystem
 
 | Project | Status | Description |
